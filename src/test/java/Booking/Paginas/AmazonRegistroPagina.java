@@ -44,6 +44,10 @@ public class AmazonRegistroPagina {
 	
 	}
 	
+	
+	
+	// git comentario
+	
 //	@Step
 	
 //	public void diligenciarCampo(String nombres) {
